@@ -1,0 +1,1 @@
+# This is a study project for PySide6 and PySide6-Fluent-Widgets.
